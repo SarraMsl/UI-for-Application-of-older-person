@@ -56,3 +56,19 @@ Musselmal sarra with nardjis belonis
 <br>
 <br>
 <a href="https://ibb.co/dJfvyr7"><img src="https://i.ibb.co/Dg1FntL/Screenshot-2023-12-12-23-05-58-916-com-example-myapplication.jpg" alt="Screenshot-2023-12-12-23-05-58-916-com-example-myapplication" border="0"></a>
+
+<hr>
+
+# Tp_3 :Java-App-for-AI-Model-Summoning
+
+<br>
+<br>
+This application comprises an Android client-server system. The Android app collects user-entered data, which is then sent via a POST request to a specified server address. The server, written in Python, utilizes a K-Nearest Neighbors (KNN) machine learning model trained on the Iris dataset.
+<br>
+<br>
+link:https://github.com/SarraMsl/Java-App-for-AI-Model-Summoning
+<br>
+<br>
+Musselmal sarra with nardjis belonis
+<br>
+<br>
